@@ -72,3 +72,4 @@ GP_1st/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 GP_1st/DerivedDataCache/*
+*.zip
